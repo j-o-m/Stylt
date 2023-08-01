@@ -3,11 +3,11 @@
 A programming language built to enable its creator to code what they wanted in the way they wanted.
 
 ### Primary Design Criteria (**PDC**):
-
+  
 	- All language constructs and concepts should be as minimal and orthogonal as possible
 	- The base language should Maximize Expressivity and the Abilities of Computational Constructs
-  - The Language should have Well Defined and Foramlly Specified Semantics:
-    - The Language should enable the specification of Categorical Semantics and the more traditional Denotational Semantics should be able to be discussed
+	- The Language should have Well Defined and Foramlly Specified Semantics:
+		- The Language should enable the specification of Categorical Semantics and the more traditional Denotational Semantics should be able to be discussed
 		- Operational Semantics should be presentable for both the level of 'program' execution and for compilation (which are ultimately the same)
 	- Language Primitives, syntactically, type theoretically, and semantically, should be situated at the lowest possible level of abstraction
 	- The Syntax of the language should enable all the above criteria to be Maximally Expressive and Maximally Powerful
