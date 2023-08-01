@@ -4,7 +4,7 @@ A programming language built to enable its creator to code what they wanted in t
 
 ### Primary Design Criteria (**PDC**):
   
-	- All language constructs and concepts should be as minimal and orthogonal as possible
+    - All language constructs and concepts should be as minimal and orthogonal as possible
 	- The base language should Maximize Expressivity and the Abilities of Computational Constructs
 	- The Language should have Well Defined and Foramlly Specified Semantics:
 		- The Language should enable the specification of Categorical Semantics and the more traditional Denotational Semantics should be able to be discussed
